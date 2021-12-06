@@ -1,2 +1,2 @@
 # BirdDescription
-Find out what a bird is.
+Find out what bird it is.
